@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+ColorWave builds stunning shopify ecommerce websites that convert visitors into loyal customers. Explore bold design, seamless UX, and real results. Start now!
+
+### About
+https://example.com/about
+Discover how ColorWave crafts world-class shopify ecommerce stores with passion, precision, and purpose. Our story is built on your success — learn what drives us!
+
+### Gallery
+https://example.com/gallery
+Browse ColorWave&#39;s gallery of jaw-dropping ecommerce website designs that blend beauty with performance. Get inspired and envision what your shopify store could become!
+
+### Contact
+https://example.com/contact
+Ready to launch your shopify ecommerce store? Reach out to ColorWave today and get expert ecommerce customer service from a team that truly cares about your growth!
+
+### Products
+https://example.com/products
+Our Products - ColorWave
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - ColorWave
+
+### Category
+https://example.com/category/:slug
+Products - ColorWave
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
